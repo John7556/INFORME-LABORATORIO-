@@ -6,7 +6,11 @@
 1.1.	OBJETIVO DE LA PRÁCTICA
 
 
-Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.
+-Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.
+
+-Comprender el correcto uso de la ley de ohm y la ley de Kirchhoff y sus dos leyes derivadas: corrientes y voltajes.
+Analizar la circulaciòn de la energía en el circuito mixto 
+Obtener las caidas de voltaje en cada resistencia aplicando lala ley de ohm y la ley de Kirchhoff
 
 
 
@@ -216,14 +220,16 @@ Tabla 1.3. Verificación de la LCK.
 ![image](https://user-images.githubusercontent.com/93899720/141450141-c22496aa-7e50-45cd-8f93-d88e1620bd35.png)
 
 
+1.5.5.	Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+
+Los resultados obtenidos aplicados adecuadamente con el menor desprecio de decimales devuelve al investigador una cantidad que oscila a los valores reales, estos valores serán más exactos según el método que se utilice para calcular dichos resultados
 
 5. VIDEO
 
 
 6. CONCLUSIONES
 
-Los resultados obtenidos aplicados adecuadamente con el menor desprecio de decimales devuelve al investigador una cantidad que oscila a los valores reales, estos valores serán más exactos según el método que se utilice para calcular dichos resultados. 
-
+Los resultados obtenidos aplicados adecuadamente con el menor desprecio de decimales devuelve al investigador una cantidad que oscila a los valores reales, estos valores serán más exactos según el método que se utilice para calcular dichos resultados.
 
 
 7. BIBLIOGRAFÍA
